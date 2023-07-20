@@ -1,0 +1,12 @@
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/animatbasic
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ram/Desktop/New Folder/git/animatbasic/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin

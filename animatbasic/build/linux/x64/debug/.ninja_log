@@ -1,0 +1,80 @@
+# ninja log v5
+12832	13176	0	CMakeFiles/install.util	8f63cdce6501801
+10556	12598	1689832195497758028	CMakeFiles/animatbasic.dir/my_application.cc.o	15e47aa2991df9fe
+10556	12560	1689832195461756978	CMakeFiles/animatbasic.dir/flutter/generated_plugin_registrant.cc.o	6bdf7082e691f4e2
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_view.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_value.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	2aaf6c2b4881421b
+11	10555	0	flutter/_phony_	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/libflutter_linux_gtk.so	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_engine.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	2aaf6c2b4881421b
+12598	12831	1689832195741765145	intermediates_do_not_run/animatbasic	c18d1b8f7690b58e
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	2aaf6c2b4881421b
+47258	50615	1689830569680730715	CMakeFiles/animatbasic.dir/main.cc.o	de04c42e00f06254
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	2aaf6c2b4881421b
+11	10555	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/libflutter_linux_gtk.so	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_engine.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_value.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_view.h	2aaf6c2b4881421b
+9	10469	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	2aaf6c2b4881421b
+9	10469	0	flutter/_phony_	2aaf6c2b4881421b
+10470	12223	1689834541843194772	CMakeFiles/animatbasic.dir/flutter/generated_plugin_registrant.cc.o	6bdf7082e691f4e2
+10470	12334	1689834541955197026	CMakeFiles/animatbasic.dir/my_application.cc.o	15e47aa2991df9fe
+12334	12643	1689834542267203306	intermediates_do_not_run/animatbasic	c18d1b8f7690b58e
+12643	13102	0	CMakeFiles/install.util	8f63cdce6501801
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/libflutter_linux_gtk.so	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_engine.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_value.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/fl_view.h	2aaf6c2b4881421b
+9	11463	0	/home/ram/Desktop/New Folder/git/animatbasic/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	2aaf6c2b4881421b
+9	11463	0	flutter/_phony_	2aaf6c2b4881421b
+11464	13509	1689836021123258301	CMakeFiles/animatbasic.dir/flutter/generated_plugin_registrant.cc.o	6bdf7082e691f4e2
+11463	13695	1689836021307263293	CMakeFiles/animatbasic.dir/my_application.cc.o	15e47aa2991df9fe
+13695	14268	1689836021887279027	intermediates_do_not_run/animatbasic	c18d1b8f7690b58e
+14268	15089	0	CMakeFiles/install.util	8f63cdce6501801
